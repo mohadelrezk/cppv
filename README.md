@@ -45,9 +45,7 @@ CKAN
 
 Protege
 ----
-![img](screen_samples/protege1.jpg)
 
-![img](screen_samples/protege.jpg)
 
 ![img](screen_samples/protege1.jpg)
 
