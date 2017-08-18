@@ -77,7 +77,6 @@ Protege
 
 ![img](screen_samples/protege15.jpg)
 
-![img](screen_samples/protege16.jpg)
 
 
 Last Update:
